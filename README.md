@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date: 18.10.23
+## DATE : 25/10/24
 ## AIM:
 To design a website to find total surface area of a square prism in server side.
 
@@ -109,11 +109,8 @@ Publish the website in the given URL.
 ```
 
 ## SERVER SIDE PROCESSING:
-![282279345-66aa7392-cb30-4204-9258-168eec7a98e0](https://github.com/kamalesh2509/MathServer/assets/120444689/3c843111-164e-4519-96dd-22da114ccbc9)
-
-
+![Area Html Code](https://github.com/user-attachments/assets/13ee754e-1344-4675-b7e4-723cf054c25d)
 ## HOMEPAGE:
-![Screenshot 2023-11-16 090121](https://github.com/kamalesh2509/MathServer/assets/120444689/fdbe9326-7a9a-434d-86d8-20b12d9653d1)
-
+![Area](https://github.com/user-attachments/assets/6c0355ea-741e-4c83-bdec-afe8b5665c76)
 ## RESULT:
 The program for performing server side processing is completed successfully.
