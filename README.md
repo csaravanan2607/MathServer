@@ -40,7 +40,7 @@ Publish the website in the given URL.
     <style>
     body {
         font-family: Arial, sans-serif;
-        background-color: #fbfb07;
+        background-color: #07fbe7;
         margin: 0;
         padding: 0;
     }
@@ -79,7 +79,7 @@ Publish the website in the given URL.
     button {
         width: 100%;
         padding: 10px;
-        background-color: #079ffd;
+        background-color: #7207fd;
         color: white;
         border: none;
         border-radius: 4px;
@@ -108,7 +108,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <div class="container">
-        <h1>Lamp Filament Power Calculator</h1>
+        <h1>Power Of A Lamp Filament Calculator</h1>
         <form id="power-form">
             <div class="input-group">
                 <label for="intensity">Intensity (I in Amperes):</label>
@@ -131,7 +131,7 @@ Publish the website in the given URL.
             const resistance = parseFloat(document.getElementById('resistance').value);
             const power = Math.pow(intensity, 2) * resistance;
 
-            document.getElementById('result').innerText = "Power: " + power.toFixed(2) + " Watts";
+            document.getElementById('result').innerText = "Power : " + power.toFixed(2) + " Watts";
         });
     </script>
 </body>
@@ -139,9 +139,10 @@ Publish the website in the given URL.
 ```
 
 
+
 ## SERVER SIDE PROCESSING:
-![Mathserver](https://github.com/user-attachments/assets/e9de0ef0-3885-43ed-8d3b-4a8b570b58cc)
+![Mathserver 2](https://github.com/user-attachments/assets/d15dbbb9-54e9-442b-b859-07223b945b66)
 ## HOMEPAGE:
-![Lamp Filament](https://github.com/user-attachments/assets/733f6573-a43d-4b3f-aad7-1de5b3202c48)
+![Lamp Filament 2](https://github.com/user-attachments/assets/8acb9156-0a2b-4e58-bc29-a3429553b76c)
 ## RESULT:
 The program for performing server side processing is completed successfully.
